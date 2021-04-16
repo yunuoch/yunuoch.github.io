@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yunuo Chen"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm a PhD student at Computer and Information Science, University of Pennsylvania, advised by Prof. [Chenfanfu Jiang](https://www.seas.upenn.edu/~cffjiang/). My research interests include scientific computation and its application in computer graphics, especially physics-based simulation.
 
-I received my Bachelor's Degree in Computational Mathematics from the School of the Gifted Young, University of Science and Technology of China (USTC) in July, 2020. 
+I received my Bachelor's Degree in Computational Mathematics from the School of the Gifted Young, University of Science and Technology of China (USTC) in July, 2020. Here is my [CV](https://yunuoch.github.io/files/yunuo_cv.pdf).
 
 <!-- Bio
 ======
