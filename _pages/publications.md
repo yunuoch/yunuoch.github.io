@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-<font size=4>AnisoMPM: Animating Anisotropic Damage Mechanics</font>
+### AnisoMPM: Animating Anisotropic Damage Mechanics
 
-<font size=2>Joshuah Wolper, Yunuo Chen, Minchen Li, Yu Fang, Ziyin Qu, Jiecong Lu, Meggie Cheng, Chenfanfu Jiang (SIGGRAPH 2020)</font>
+Joshuah Wolper, Yunuo Chen, Minchen Li, Yu Fang, Ziyin Qu, Jiecong Lu, Meggie Cheng, Chenfanfu Jiang (SIGGRAPH 2020)
 
-<font size=2>**Links** : [Project Page](https://joshuahwolper.com/anisompm) ｜ [Source Code](https://github.com/penn-graphics-research/ziran2020)</font>
+Links: [Project Page](https://joshuahwolper.com/anisompm) ｜ [Source Code](https://github.com/penn-graphics-research/ziran2020)
 
 ![AnisoMPM](http://yunuoch.github.io/images/anisompm.png "AnisoMPM")
 
