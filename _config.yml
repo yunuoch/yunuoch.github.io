@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Yunuo Chen"
-  avatar           : "profile.png"
-  bio              : "PhD Student in Computer Graphics"
+  avatar           : "images/profile.png"
+  bio              : "PhD Student in Graphics"
   location         : "Los Angeles"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  #"http://yourfullgooglescholarurl.com"
   email            : "yunuoch@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
