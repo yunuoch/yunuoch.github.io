@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yunuo Chen"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "PhD Student in Graphics"
   location         : "Los Angeles"
   employer         :
