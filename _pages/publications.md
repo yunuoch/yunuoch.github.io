@@ -13,7 +13,7 @@ ACM Transactions On Graphics (presented at SIGGRAPH). 2022.
 
 Links: [Paper](https://dl.acm.org/doi/10.1145/3519595)
 
-![CSMPM](http://yunuoch.github.io/images/csmpm.png =250x)
+<img src="http://yunuoch.github.io/images/csmpm.png" alt="csmpm" width="200"/>
 
 ### AnisoMPM: Animating Anisotropic Damage Mechanics
 
@@ -23,7 +23,7 @@ SIGGRAPH. 2020.
 
 Links: [Paper](https://www.math.ucla.edu/~cffjiang/research/wolper2020aniso/Wolper2020_AnisoMPM.pdf), [Project Page](https://joshuahwolper.com/anisompm), [Source Code](https://github.com/penn-graphics-research/ziran2020)
 
-![AnisoMPM](http://yunuoch.github.io/images/anisompm.png =250x)
+<img src="http://yunuoch.github.io/images/anisompm.png" alt="anisompm" width="200"/>
 
 ---
 <!-- {% if author.googlescholar %}
