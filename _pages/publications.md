@@ -11,7 +11,7 @@ author_profile: true
 
 ACM Transactions On Graphics (SIGGRAPH). 2022.
 
-<img src="http://yunuoch.github.io/images/publication/multibody.jpg" alt="multibody" width="200"/>
+<img src="http://yunuoch.github.io/images/publication/multibody.png" alt="multibody" width="200"/>
 
 ### An Efficient B-Spline Lagrangian/Eulerian Method for Compressible Flow, Shock Waves, and Fracturing Solids
 
