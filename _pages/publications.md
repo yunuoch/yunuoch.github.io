@@ -11,7 +11,7 @@ author_profile: true
 
 ACM Transactions On Graphics (SIGGRAPH). 2022.
 
-Links: [Paper](https://drive.google.com/uc?export=view&id=1MVZ-cEd7-xBelBT780THG3HtTwO93B1t), [Video](https://www.youtube.com/watch?v=sdh4Yk0SyZo)
+Links: [Paper](https://drive.google.com/uc?export=view&id=1nZiVL6FIkI_nnCUy-209gxVXgSqZF57E), [Video](https://www.youtube.com/watch?v=sdh4Yk0SyZo)
 
 <img src="http://yunuoch.github.io/images/publication/multibody.png" alt="multibody" width="200"/>
 
