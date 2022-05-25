@@ -11,6 +11,8 @@ author_profile: true
 
 ACM Transactions On Graphics (SIGGRAPH). 2022.
 
+Links: [Paper](https://drive.google.com/uc?export=view&id=1MVZ-cEd7-xBelBT780THG3HtTwO93B1t), [Video](https://www.youtube.com/watch?v=sdh4Yk0SyZo)
+
 <img src="http://yunuoch.github.io/images/publication/multibody.png" alt="multibody" width="200"/>
 
 ### An Efficient B-Spline Lagrangian/Eulerian Method for Compressible Flow, Shock Waves, and Fracturing Solids
@@ -19,7 +21,7 @@ Yadi Cao, **Yunuo Chen**, Minchen Li, Yin Yang, Xinxin Zhang, Mridul Aanjaneya, 
 
 ACM Transactions On Graphics (presented at SIGGRAPH). 2022.
 
-Links: [Paper](https://dl.acm.org/doi/10.1145/3519595)
+Links: [Paper](https://drive.google.com/uc?export=view&id=1jlFb7EJbLdPjnNaIuqO-Ow0cP-Dgxgqk)
 
 <img src="http://yunuoch.github.io/images/publication/csmpm.png" alt="csmpm" width="200"/>
 
