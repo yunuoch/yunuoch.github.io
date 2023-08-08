@@ -7,7 +7,7 @@ author_profile: true
 
 ### Multi-Layer Thick Shells
 
-Yunuo Chen, Tianyi Xie, Cem Yuksel, Danny Kaufman, Yin Yang, Chenfanfu Jiang, Minchen Li
+**Yunuo Chen**, Tianyi Xie, Cem Yuksel, Danny Kaufman, Yin Yang, Chenfanfu Jiang, Minchen Li
 
 ACM SIGGRAPH. 2023.
 
@@ -41,7 +41,7 @@ Joshuah Wolper, **Yunuo Chen**, Minchen Li, Yu Fang, Ziyin Qu, Jiecong Lu, Meggi
 
 ACM Transactions On Graphics (SIGGRAPH). 2020.
 
-Links: [Paper](https://www.math.ucla.edu/~cffjiang/research/wolper2020aniso/Wolper2020_AnisoMPM.pdf), [Supplemental Document](https://www.math.ucla.edu/~cffjiang/research/wolper2020aniso/Wolper2020_AnisoMPM_Supplement.pdf), [Project Page](https://joshuahwolper.com/anisompm), [Source Code](https://github.com/penn-graphics-research/ziran2020)
+Links: [Paper](https://www.math.ucla.edu/~cffjiang/research/wolper2020aniso/Wolper2020_AnisoMPM.pdf), [Supplemental Document](https://www.math.ucla.edu/~cffjiang/research/wolper2020aniso/Wolper2020_AnisoMPM_Supplement.pdf), [Video](https://youtu.be/eXJi7pkUZn0), [Project Page](https://joshuahwolper.com/anisompm), [Source Code](https://github.com/penn-graphics-research/ziran2020)
 
 <img src="http://yunuoch.github.io/images/publication/anisompm.png" alt="anisompm" width="200"/>
 
