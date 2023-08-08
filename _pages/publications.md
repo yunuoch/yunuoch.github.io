@@ -5,9 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Multi-Layer Thick Shells
+
+Yunuo Chen, Tianyi Xie, Cem Yuksel, Danny Kaufman, Yin Yang, Chenfanfu Jiang, Minchen Li
+
+ACM SIGGRAPH. 2023.
+
+Links: [Paper](https://drive.google.com/uc?export=view&id=17-RZkRb8uCXQqE_VrQmoQyBmwZ-su3KS), [Supplemental Document](https://drive.google.com/uc?export=view&id=1CXreHy9jzdAzv8CFFZiJwtME_Kq3jASp), [Video](https://www.youtube.com/watch?v=z1Wc5DvC2Wk&t)
+
+<img src="http://yunuoch.github.io/images/publication/thickshell.png" alt="thickshell" width="200"/>
+
 ### A Unified Newton Barrier Method for Multibody Dynamics
 
-**Yunuo Chen\***, Minchen Li\* (*equal contributions*), Lei Lan, Hao Su, Yin Yang, Chenfanfu Jiang.
+**Yunuo Chen\***, Minchen Li\* (*equal contributions*), Lei Lan, Hao Su, Yin Yang, Chenfanfu Jiang
 
 ACM Transactions On Graphics (SIGGRAPH). 2022.
 
@@ -27,11 +37,11 @@ Links: [Paper](https://drive.google.com/uc?export=view&id=1jlFb7EJbLdPjnNaIuqO-O
 
 ### AnisoMPM: Animating Anisotropic Damage Mechanics
 
-Joshuah Wolper, **Yunuo Chen**, Minchen Li, Yu Fang, Ziyin Qu, Jiecong Lu, Meggie Cheng, Chenfanfu Jiang 
+Joshuah Wolper, **Yunuo Chen**, Minchen Li, Yu Fang, Ziyin Qu, Jiecong Lu, Meggie Cheng, Chenfanfu Jiang
 
 ACM Transactions On Graphics (SIGGRAPH). 2020.
 
-Links: [Paper](https://www.math.ucla.edu/~cffjiang/research/wolper2020aniso/Wolper2020_AnisoMPM.pdf), [Project Page](https://joshuahwolper.com/anisompm), [Source Code](https://github.com/penn-graphics-research/ziran2020)
+Links: [Paper](https://www.math.ucla.edu/~cffjiang/research/wolper2020aniso/Wolper2020_AnisoMPM.pdf), [Supplemental Document](https://www.math.ucla.edu/~cffjiang/research/wolper2020aniso/Wolper2020_AnisoMPM_Supplement.pdf), [Project Page](https://joshuahwolper.com/anisompm), [Source Code](https://github.com/penn-graphics-research/ziran2020)
 
 <img src="http://yunuoch.github.io/images/publication/anisompm.png" alt="anisompm" width="200"/>
 
