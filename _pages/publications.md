@@ -13,7 +13,7 @@ ACM SIGGRAPH. 2023.
 
 Links: [Paper](https://drive.google.com/uc?export=view&id=17-RZkRb8uCXQqE_VrQmoQyBmwZ-su3KS), [Supplemental Document](https://drive.google.com/uc?export=view&id=1CXreHy9jzdAzv8CFFZiJwtME_Kq3jASp), [Video](https://www.youtube.com/watch?v=z1Wc5DvC2Wk&t)
 
-<img src="http://yunuoch.github.io/images/publication/thickshell.png" alt="thickshell" width="200"/>
+<img src="http://yunuoch.github.io/images/publication/thickshell.png" alt="thickshell" width="500"/>
 
 ### A Unified Newton Barrier Method for Multibody Dynamics
 
@@ -23,7 +23,7 @@ ACM Transactions On Graphics (SIGGRAPH). 2022.
 
 Links: [Paper](https://drive.google.com/uc?export=view&id=1nZiVL6FIkI_nnCUy-209gxVXgSqZF57E), [Video](https://www.youtube.com/watch?v=sdh4Yk0SyZo)
 
-<img src="http://yunuoch.github.io/images/publication/multibody.png" alt="multibody" width="200"/>
+<img src="http://yunuoch.github.io/images/publication/multibody.png" alt="multibody" width="500"/>
 
 ### An Efficient B-Spline Lagrangian/Eulerian Method for Compressible Flow, Shock Waves, and Fracturing Solids
 
@@ -33,7 +33,7 @@ ACM Transactions On Graphics (presented at SIGGRAPH). 2022.
 
 Links: [Paper](https://drive.google.com/uc?export=view&id=1jlFb7EJbLdPjnNaIuqO-Ow0cP-Dgxgqk)
 
-<img src="http://yunuoch.github.io/images/publication/csmpm.png" alt="csmpm" width="200"/>
+<img src="http://yunuoch.github.io/images/publication/csmpm.png" alt="csmpm" width="500"/>
 
 ### AnisoMPM: Animating Anisotropic Damage Mechanics
 
@@ -43,7 +43,7 @@ ACM Transactions On Graphics (SIGGRAPH). 2020.
 
 Links: [Paper](https://www.math.ucla.edu/~cffjiang/research/wolper2020aniso/Wolper2020_AnisoMPM.pdf), [Supplemental Document](https://www.math.ucla.edu/~cffjiang/research/wolper2020aniso/Wolper2020_AnisoMPM_Supplement.pdf), [Video](https://youtu.be/eXJi7pkUZn0), [Project Page](https://joshuahwolper.com/anisompm), [Source Code](https://github.com/penn-graphics-research/ziran2020)
 
-<img src="http://yunuoch.github.io/images/publication/anisompm.png" alt="anisompm" width="200"/>
+<img src="http://yunuoch.github.io/images/publication/anisompm.png" alt="anisompm" width="500"/>
 
 ---
 <!-- {% if author.googlescholar %}
