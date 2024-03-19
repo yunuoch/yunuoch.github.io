@@ -15,6 +15,16 @@ Links: [Paper](https://drive.google.com/uc?export=view&id=17-RZkRb8uCXQqE_VrQmoQ
 
 <img src="http://yunuoch.github.io/images/publication/thickshell.png" alt="thickshell" width="500"/>
 
+### Midas: A Multi-Joint Robotics Simulator with Intersection-Free Frictional Contact
+
+**Yunuo Chen**, Minchen Li, Wenlong Lu, Chuyuan Fu, Chenfanfu Jiang
+
+arXiv. 2022.
+
+Links: [Preprint](https://arxiv.org/abs/2210.00130)
+
+<img src="http://yunuoch.github.io/images/publication/midas.png" alt="midas" width="500"/>
+
 ### A Unified Newton Barrier Method for Multibody Dynamics
 
 **Yunuo Chen\***, Minchen Li\* (*equal contributions*), Lei Lan, Hao Su, Yin Yang, Chenfanfu Jiang
@@ -29,7 +39,7 @@ Links: [Paper](https://drive.google.com/uc?export=view&id=1nZiVL6FIkI_nnCUy-209g
 
 Yadi Cao, **Yunuo Chen**, Minchen Li, Yin Yang, Xinxin Zhang, Mridul Aanjaneya, Chenfanfu Jiang
 
-ACM Transactions On Graphics (presented at SIGGRAPH). 2022.
+ACM Transactions On Graphics (SIGGRAPH). 2022.
 
 Links: [Paper](https://drive.google.com/uc?export=view&id=1jlFb7EJbLdPjnNaIuqO-Ow0cP-Dgxgqk)
 
