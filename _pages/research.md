@@ -7,7 +7,7 @@ author_profile: true
 
 ### Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication
 
-**Yunuo Chen\***, Tianyi Xie\*, Zeshun Zong\*, Xuan Li, Feng Gao, Yin Yang, Ying Nian Wu, Chenfanfu Jiang
+**Yunuo Chen\***, Tianyi Xie\*, Zeshun Zong\* (*equal contributions*), Xuan Li, Feng Gao, Yin Yang, Ying Nian Wu, Chenfanfu Jiang
 
 NeurIPS. 2024.
 
