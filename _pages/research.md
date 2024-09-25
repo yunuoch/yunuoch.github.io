@@ -5,6 +5,17 @@ permalink: /research/
 author_profile: true
 ---
 
+### Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication
+
+**Yunuo Chen\***, Tianyi Xie\*, Zeshun Zong\*, Xuan Li, Feng Gao, Yin Yang, Ying Nian Wu, Chenfanfu Jiangx
+
+NeurIPS. 2024.
+
+Links: [Preprint](https://arxiv.org/abs/2405.18515), [Project Page](https://yunuoch.github.io/Atlas3D/), [Source Code](https://github.com/yunuoch/Atlas3D)
+
+<img src="http://yunuoch.github.io/images/publication/atlas3d.png" alt="atlas3d" width="300"/>
+
+
 ### Multi-Layer Thick Shells
 
 **Yunuo Chen**, Tianyi Xie, Cem Yuksel, Danny Kaufman, Yin Yang, Chenfanfu Jiang, Minchen Li
