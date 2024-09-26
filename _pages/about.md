@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third year PhD student at the [AIVC](https://www.math.ucla.edu/aivc/) Lab, Department of Mathematics, University of California, Los Angeles (UCLA), advised by Prof. [Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/). My research interests include scientific computation and its application in graphics, especially physics-based animation.
+I'm a fourth year PhD student at the [AIVC](https://www.math.ucla.edu/aivc/) Lab, Department of Mathematics, University of California, Los Angeles (UCLA), advised by Prof. [Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/). My research interests include scientific computation and its application in graphics, especially physics-based animation.
 
 Before coming to the US, I received my Bachelor's Degree in Computational Mathematics from the School of the Gifted Young, University of Science and Technology of China (USTC) in July, 2020.
 <!-- Here is my [CV](https://yunuoch.github.io/files/yunuo_cv.pdf). -->

@@ -13,7 +13,7 @@ NeurIPS. 2024.
 
 Links: [Preprint](https://arxiv.org/abs/2405.18515), [Project Page](https://yunuoch.github.io/Atlas3D/), [Source Code](https://github.com/yunuoch/Atlas3D)
 
-<img src="http://yunuoch.github.io/images/publication/atlas3d.png" alt="atlas3d" width="300"/>
+<img src="/images/publication/atlas3d.png" alt="atlas3d" width="300"/>
 
 
 ### Multi-Layer Thick Shells
@@ -24,7 +24,7 @@ ACM SIGGRAPH. 2023.
 
 Links: [Paper](https://drive.google.com/uc?export=view&id=17-RZkRb8uCXQqE_VrQmoQyBmwZ-su3KS), [Supplemental Document](https://drive.google.com/uc?export=view&id=1CXreHy9jzdAzv8CFFZiJwtME_Kq3jASp), [Video](https://www.youtube.com/watch?v=z1Wc5DvC2Wk&t)
 
-<img src="http://yunuoch.github.io/images/publication/thickshell.png" alt="thickshell" width="300"/>
+<img src="/images/publication/thickshell.png" alt="thickshell" width="300"/>
 
 ### Midas: A Multi-Joint Robotics Simulator with Intersection-Free Frictional Contact
 
@@ -34,7 +34,7 @@ arXiv. 2022.
 
 Links: [Preprint](https://arxiv.org/abs/2210.00130)
 
-<img src="http://yunuoch.github.io/images/publication/midas.png" alt="midas" width="300"/>
+<img src="/images/publication/midas.png" alt="midas" width="300"/>
 
 ### A Unified Newton Barrier Method for Multibody Dynamics
 
@@ -44,7 +44,7 @@ ACM Transactions On Graphics (SIGGRAPH). 2022.
 
 Links: [Paper](https://drive.google.com/uc?export=view&id=1nZiVL6FIkI_nnCUy-209gxVXgSqZF57E), [Video](https://www.youtube.com/watch?v=sdh4Yk0SyZo)
 
-<img src="http://yunuoch.github.io/images/publication/multibody.png" alt="multibody" width="300"/>
+<img src="/images/publication/multibody.png" alt="multibody" width="300"/>
 
 ### An Efficient B-Spline Lagrangian/Eulerian Method for Compressible Flow, Shock Waves, and Fracturing Solids
 
@@ -54,7 +54,7 @@ ACM Transactions On Graphics (SIGGRAPH). 2022.
 
 Links: [Paper](https://drive.google.com/uc?export=view&id=1jlFb7EJbLdPjnNaIuqO-Ow0cP-Dgxgqk)
 
-<img src="http://yunuoch.github.io/images/publication/csmpm.png" alt="csmpm" width="300"/>
+<img src="/images/publication/csmpm.png" alt="csmpm" width="300"/>
 
 ### AnisoMPM: Animating Anisotropic Damage Mechanics
 
@@ -64,7 +64,7 @@ ACM Transactions On Graphics (SIGGRAPH). 2020.
 
 Links: [Paper](https://www.math.ucla.edu/~cffjiang/research/wolper2020aniso/Wolper2020_AnisoMPM.pdf), [Supplemental Document](https://www.math.ucla.edu/~cffjiang/research/wolper2020aniso/Wolper2020_AnisoMPM_Supplement.pdf), [Video](https://youtu.be/eXJi7pkUZn0), [Project Page](https://joshuahwolper.com/anisompm), [Source Code](https://github.com/penn-graphics-research/ziran2020)
 
-<img src="http://yunuoch.github.io/images/publication/anisompm.png" alt="anisompm" width="300"/>
+<img src="/images/publication/anisompm.png" alt="anisompm" width="300"/>
 
 ---
 <!-- {% if author.googlescholar %}
