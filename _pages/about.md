@@ -7,9 +7,86 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a fourth year PhD student at the [AIVC](https://www.math.ucla.edu/aivc/) Lab, Department of Mathematics, University of California, Los Angeles (UCLA), advised by Prof. [Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/). My research interests include scientific computation and its application in graphics, especially physics-based animation.
+I'm a fourth year PhD student at the [AIVC](https://www.math.ucla.edu/aivc/) Lab, Department of Mathematics, University of California, Los Angeles (UCLA), advised by Prof. [Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/). My research interests mainly lie in computer graphics and vision.
 
-Before coming to the US, I received my Bachelor's Degree in Computational Mathematics from the School of the Gifted Young, University of Science and Technology of China (USTC) in July, 2020.
+Before coming to the US, I received my Bachelor's Degree in Computational Mathematics from University of Science and Technology of China (USTC) in July, 2020.
+
+
+## Research
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/publication/atlas3d.png" alt="Paper 1" style="width: 200px; height: auto; margin-right: 20px;">
+  <div>
+    <strong style="font-size: 16px;">Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication</strong><br>
+    <em style="font-size: 14px;"><strong>Yunuo Chen*</strong>, Tianyi Xie*, Zeshun Zong* (*equal contributions*), Xuan Li, Feng Gao, Yin Yang, Ying Nian Wu, Chenfanfu Jiang</em><br>
+    <span style="font-size: 14px;"> NeurIPS. 2024.&nbsp;&nbsp;&nbsp;
+      [<a href="https://arxiv.org/abs/2405.18515" target="_blank">Paper</a>] |
+      [<a href="https://github.com/yunuoch/Atlas3D" target="_blank">Code</a>] |
+      [<a href="https://yunuoch.github.io/Atlas3D/" target="_blank">Project Page</a>]
+    </span>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/publication/thickshell.png" alt="Paper 1" style="width: 200px; height: auto; margin-right: 20px;">
+  <div>
+    <strong style="font-size: 16px;">Multi-Layer Thick Shells</strong><br>
+    <em style="font-size: 14px;"><strong>Yunuo Chen</strong>, Tianyi Xie, Cem Yuksel, Danny Kaufman, Yin Yang, Chenfanfu Jiang, Minchen Li</em><br>
+    <span style="font-size: 14px;"> ACM SIGGRAPH. 2023.&nbsp;&nbsp;&nbsp;
+      [<a href="https://drive.google.com/uc?export=view&id=17-RZkRb8uCXQqE_VrQmoQyBmwZ-su3KS" target="_blank">Paper</a>] |
+      [<a href="https://drive.google.com/uc?export=view&id=1CXreHy9jzdAzv8CFFZiJwtME_Kq3jASp" target="_blank">Supplementary</a>] |
+      [<a href="https://www.youtube.com/watch?v=z1Wc5DvC2Wk&t" target="_blank">Video</a>]
+    </span>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/publication/midas.png" alt="Paper 1" style="width: 200px; height: auto; margin-right: 20px;">
+  <div>
+    <strong style="font-size: 16px;">Midas: A Multi-Joint Robotics Simulator with Intersection-Free Frictional Contact</strong><br>
+    <em style="font-size: 14px;"><strong>Yunuo Chen</strong>, Minchen Li, Wenlong Lu, Chuyuan Fu, Chenfanfu Jiang</em><br>
+    <span style="font-size: 14px;"> ArXiv. 2022.&nbsp;&nbsp;&nbsp;
+      [<a href="https://arxiv.org/abs/2210.00130" target="_blank">Paper</a>]
+    </span>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/publication/multibody.png" alt="Paper 1" style="width: 200px; height: auto; margin-right: 20px;">
+  <div>
+    <strong style="font-size: 16px;">A Unified Newton Barrier Method for Multibody Dynamics</strong><br>
+    <em style="font-size: 14px;"><strong>Yunuo Chen</strong>, Tianyi Xie, Cem Yuksel, Danny Kaufman, Yin Yang, Chenfanfu Jiang, Minchen Li</em><br>
+    <span style="font-size: 14px;"> ACM Transactions On Graphics (SIGGRAPH). 2022.&nbsp;&nbsp;&nbsp;
+      [<a href="https://drive.google.com/uc?export=view&id=1nZiVL6FIkI_nnCUy-209gxVXgSqZF57E" target="_blank">Paper</a>] |
+      [<a href="https://www.youtube.com/watch?v=sdh4Yk0SyZo" target="_blank">Video</a>]
+    </span>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/publication/csmpm.png" alt="Paper 1" style="width: 200px; height: auto; margin-right: 20px;">
+  <div>
+    <strong style="font-size: 16px;">An Efficient B-Spline Lagrangian/Eulerian Method for Compressible Flow, Shock Waves, and Fracturing Solids</strong><br>
+    <em style="font-size: 14px;">Yadi Cao, <strong>Yunuo Chen</strong>, Minchen Li, Yin Yang, Xinxin Zhang, Mridul Aanjaneya, Chenfanfu Jiang</em><br>
+    <span style="font-size: 14px;"> ACM Transactions On Graphics (SIGGRAPH). 2022.&nbsp;&nbsp;&nbsp;
+      [<a href="https://drive.google.com/uc?export=view&id=1jlFb7EJbLdPjnNaIuqO-Ow0cP-Dgxgqk" target="_blank">Paper</a>]
+    </span>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/publication/anisompm.png" alt="Paper 1" style="width: 200px; height: auto; margin-right: 20px;">
+  <div>
+    <strong style="font-size: 16px;">AnisoMPM: Animating Anisotropic Damage Mechanics</strong><br>
+    <em style="font-size: 14px;">Joshuah Wolper, <strong>Yunuo Chen</strong>, Minchen Li, Yu Fang, Ziyin Qu, Jiecong Lu, Meggie Cheng, Chenfanfu Jiang</em><br>
+    <span style="font-size: 14px;"> ACM Transactions On Graphics (SIGGRAPH). 2020.&nbsp;&nbsp;&nbsp;
+      [<a href="https://www.math.ucla.edu/~cffjiang/research/wolper2020aniso/Wolper2020_AnisoMPM.pdf" target="_blank">Paper</a>] |
+      [<a href="https://youtu.be/eXJi7pkUZn0" target="_blank">Video</a>]
+    </span>
+  </div>
+</div>
+
+
 <!-- Here is my [CV](https://yunuoch.github.io/files/yunuo_cv.pdf). -->
 
 <!-- Bio
