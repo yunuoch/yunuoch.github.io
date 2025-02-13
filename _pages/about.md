@@ -15,6 +15,18 @@ Before coming to the US, I received my Bachelor's Degree in Computational Mathem
 ## Research
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/publication/pvg.png" alt="Paper 1" style="width: 200px; height: auto; margin-right: 20px;">
+  <div>
+    <strong style="font-size: 16px;">Towards Physical Understanding in Video Generation: A 3D Point Regularization Approach</strong><br>
+    <em style="font-size: 14px;"><strong>Yunuo Chen*</strong>, Junli Cao, Anil Kag, Vidit Goel, Sergei Korolev, Chenfanfu Jiang, Sergey Tulyakov, Jian Ren</em><br>
+    <span style="font-size: 14px;"> ArXiv. 2025.&nbsp;&nbsp;&nbsp;
+      [<a href="https://arxiv.org/abs/2502.03639" target="_blank">Paper</a>] |
+      [<a href="https://snap-research.github.io/PointVidGen/" target="_blank">Project Page</a>]
+    </span>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/publication/atlas3d.png" alt="Paper 1" style="width: 200px; height: auto; margin-right: 20px;">
   <div>
     <strong style="font-size: 16px;">Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication</strong><br>
