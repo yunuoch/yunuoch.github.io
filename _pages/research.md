@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication
+<!-- ### Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication
 
 **Yunuo Chen\***, Tianyi Xie\*, Zeshun Zong\* (*equal contributions*), Xuan Li, Feng Gao, Yin Yang, Ying Nian Wu, Chenfanfu Jiang
 
@@ -64,7 +64,7 @@ ACM Transactions On Graphics (SIGGRAPH). 2020.
 
 Links: [Paper](https://www.math.ucla.edu/~cffjiang/research/wolper2020aniso/Wolper2020_AnisoMPM.pdf), [Supplemental Document](https://www.math.ucla.edu/~cffjiang/research/wolper2020aniso/Wolper2020_AnisoMPM_Supplement.pdf), [Video](https://youtu.be/eXJi7pkUZn0), [Project Page](https://joshuahwolper.com/anisompm), [Source Code](https://github.com/penn-graphics-research/ziran2020)
 
-<img src="/images/publication/anisompm.png" alt="anisompm" width="300"/>
+<img src="/images/publication/anisompm.png" alt="anisompm" width="300"/> -->
 
 ---
 <!-- {% if author.googlescholar %}
