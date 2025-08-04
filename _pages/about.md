@@ -7,12 +7,36 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a fourth year PhD student at the [AIVC](https://www.math.ucla.edu/aivc/) Lab, Department of Mathematics, University of California, Los Angeles (UCLA), advised by Prof. [Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/). My research interests mainly lie in computer graphics and vision.
+I'm a final year PhD student at the [AIVC](https://www.math.ucla.edu/aivc/) Lab, Department of Mathematics, University of California, Los Angeles (UCLA), advised by Prof. [Chenfanfu Jiang](https://www.math.ucla.edu/~cffjiang/). My research interests mainly lie in computer graphics and vision.
 
 Before coming to the US, I received my Bachelor's Degree in Computational Mathematics from University of Science and Technology of China (USTC) in July, 2020.
 
 
 ## Research
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/publication/grip.png" alt="Paper 1" style="width: 200px; height: auto; margin-right: 20px;">
+  <div>
+    <strong style="font-size: 16px;">GRIP: A General Robotic Incremental Potential Contact Simulation Dataset for Unified Deformable-Rigid Coupled Grasping</strong><br>
+    <em style="font-size: 14px;">Siyu Ma*, Wenxin Du*, Chang Yu*, Ying Jiang* (*equal contributions*), Zeshun Zong, Tianyi Xie, <strong>Yunuo Chen</strong>, Yin Yang, Xuchen Han, Chenfanfu Jiang</em><br>
+    <span style="font-size: 14px;"> International Conference on Intelligent Robots and Systems (IROS). 2025.&nbsp;&nbsp;&nbsp;
+      [<a href="https://arxiv.org/abs/2503.05020" target="_blank">Paper</a>] |
+      [<a href="https://bell0o.github.io/GRIP/" target="_blank">Project Page</a>]
+    </span>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/publication/dress123.png" alt="Paper 1" style="width: 200px; height: auto; margin-right: 20px;">
+  <div>
+    <strong style="font-size: 16px;">Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics</strong><br>
+    <em style="font-size: 14px;">Xuan Li*, Chang Yu*, Wenxin Du*, Ying Jiang* (*equal contributions*), Tianyi Xie, <strong>Yunuo Chen</strong>, Yin Yang, Chenfanfu Jiang</em><br>
+    <span style="font-size: 14px;"> ACM Transactions On Graphics (SIGGRAPH). 2025.&nbsp;&nbsp;&nbsp;
+      [<a href="http://arxiv.org/abs/2502.03449" target="_blank">Paper</a>] |
+      [<a href="https://dress-1-to-3.github.io/" target="_blank">Project Page</a>]
+    </span>
+  </div>
+</div>
+
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/publication/pvg.png" alt="Paper 1" style="width: 200px; height: auto; margin-right: 20px;">
